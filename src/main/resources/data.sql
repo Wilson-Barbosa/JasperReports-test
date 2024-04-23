@@ -1,0 +1,22 @@
+INSERT INTO TBL_EMPLOYEE(name, birthday, departament, salary)
+VALUES
+('Rafael Freire', '10/09/2002', 'IT', 15000),
+('Wilson Barbosa', '10/09/2002', 'IT', 15000),
+('Glauco Todesco', '10/09/2002', 'IT', 15000),
+('Flavia Machado', '10/09/2002', 'Marketing', 5000),
+('Luiza Pagin', '10/09/2002', 'Comercial', 10900),
+('João Aparecido', '10/09/2002', 'Comercial', 10900),
+('Levi Rodrigues', '10/09/2002', 'Comercial', 10900),
+('Tomóteo', '10/09/2002', 'Human Resources', 10900),
+('Paulo de Tarso', '10/09/2002', 'Human Resources', 10900),
+('Apollo', '10/09/2002', 'Human Resources', 10900),
+('Victória Milena', '10/09/2002', 'Marketing', 5000),
+('Luis Felipe', '10/09/2002', 'Human Resources', 10900),
+('Tiago Brandão', '10/09/2002', 'Marketing', 5000),
+('Pedro Augusto', '10/09/2002', 'Marketing', 5000),
+('Sérgio Clauss', '10/09/2002', 'Security', 10900),
+('Kelvin Messias', '15/12/2005', 'Human Resources', 10900),
+('Bruno Ferreira', '10/09/2002', 'Security', 5000),
+('Fernanda Sato', '10/09/2002', 'Comercial', 10900),
+('Jheniffer Oliveira', '10/09/1999', 'Security', 10900),
+('Felipe Marques', '10/09/2002', 'Security', 10900);
